@@ -43,7 +43,7 @@ public class CalculadoraString {
         {
             if(entradaSuma.equals(""))
             {
-                return 0;
+                return 1;
             }
             else
             {
